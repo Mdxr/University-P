@@ -19,7 +19,7 @@ int main(){
     int x, y;
     char op;
 
-    cout << "Enter the second value : ";
+    cout << "Enter the first value : ";
     cin >> x;
     cout << "Enter the operator (+ , - , / , x) : ";
     cin >> op;
